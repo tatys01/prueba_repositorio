@@ -2,10 +2,10 @@
 
 class database{ 
 
-    private static $dbHost = "localhost2";
-    private static $dbName = "db_final2";
-    private static $dbUsername = "root2";
-    private static $dbPassword = "root2";
+    private static $dbHost = "localhost";
+    private static $dbName = "db_final";
+    private static $dbUsername = "root";
+    private static $dbPassword = "root";
 
     public static function conectar(){
         try{
